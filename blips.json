@@ -1,0 +1,448 @@
+{ "blips":
+    [
+        {
+            "title": "Git",
+            "area": "tools",
+            "status": "adopt",
+            "link": "http://framerjs.com"
+        },
+        {
+            "title": "Byggverktøy for front end",
+            "area": "tools",
+            "status": "trial",
+            "link": "http://browsersync.io"
+        },
+        {
+            "title": "Liquibase",
+            "area": "tools",
+            "status": "trial",
+            "link": "http://browserify.org"
+        },
+        {
+            "title": "Docker",
+            "area": "tools",
+            "status": "trial",
+            "link": "http://browserify.org"
+        },
+        {
+            "title": "Dokument DB",
+            "area": "tools",
+            "status": "trial",
+            "link": "http://browserify.org"
+        },
+        {
+            "title": "ELK/Splunk/GrayLog 2",
+            "area": "tools",
+            "status": "trial",
+            "link": "http://browserify.org"
+        },
+        {
+            "title": "Front end testverktøy",
+            "area": "tools",
+            "status": "assess",
+            "link": "http://browserify.org"
+        },
+        {
+            "title": "Gradle",
+            "area": "tools",
+            "status": "assess",
+            "link": "http://browserify.org"
+        },
+        {
+            "title": "Puppet/Chef",
+            "area": "tools",
+            "status": "assess",
+            "link": "http://browserify.org"
+        },
+        {
+            "title": "Swagger",
+            "area": "tools",
+            "status": "assess",
+            "link": "http://browserify.org"
+        },
+        {
+            "title": "JRebel",
+            "area": "tools",
+            "status": "hold",
+            "link": "http://browserify.org"
+        },
+        {
+            "title": "STASH/Bitbucket",
+            "area": "tools",
+            "status": "hold",
+            "link": "http://browserify.org"
+        },
+        {
+            "title": "GIT Flow",
+            "area": "tools",
+            "status": "hold",
+            "link": "http://browserify.org"
+        },
+        {
+            "title": "Maven",
+            "area": "tools",
+            "status": "hold",
+            "link": "http://browserify.org"
+        },
+        {
+            "title": "Sonar",
+            "area": "tools",
+            "status": "hold",
+            "link": "http://browserify.org"
+        },
+        {
+            "title": "Jetty",
+            "area": "platforms",
+            "status": "adopt",
+            "link": "http://mapbox.com"
+        },
+        {
+            "title": "Linux for utvikling",
+            "area": "platforms",
+            "status": "adopt",
+            "link": "http://mapbox.com"
+        },
+        {
+            "title": "Kafka",
+            "area": "platforms",
+            "status": "assess",
+            "link": "http://mapbox.com"
+        },
+        {
+            "title": "IAAS",
+            "area": "platforms",
+            "status": "assess",
+            "link": "http://mapbox.com"
+        },
+        {
+            "title": "Web Components",
+            "area": "platforms",
+            "status": "assess",
+            "link": "http://mapbox.com"
+        },
+        {
+            "title": "Azure",
+            "area": "platforms",
+            "status": "assess",
+            "link": "http://mapbox.com"
+        },
+        {
+            "title": "Hadoop",
+            "area": "platforms",
+            "status": "assess",
+            "link": "http://mapbox.com"
+        },
+        {
+            "title": "Cloud Foundry/PAAS",
+            "area": "platforms",
+            "status": "assess",
+            "link": "http://mapbox.com"
+        },
+        {
+            "title": "Neo4J Graph DB",
+            "area": "platforms",
+            "status": "assess",
+            "link": "http://mapbox.com"
+        },
+        {
+            "title": "NO SQL",
+            "area": "platforms",
+            "status": "assess",
+            "link": "http://mapbox.com"
+        },
+        {
+            "title": "CI/CD plattformer",
+            "area": "platforms",
+            "status": "assess",
+            "link": "http://mapbox.com"
+        },
+        {
+            "title": "Heroku",
+            "area": "platforms",
+            "status": "trial",
+            "link": "http://mapbox.com"
+        },
+        {
+            "title": "Node.js",
+            "area": "platforms",
+            "status": "trial",
+            "link": "http://mapbox.com"
+        },
+        {
+            "title": "Elastic search",
+            "area": "platforms",
+            "status": "trial",
+            "link": "http://mapbox.com"
+        },
+        {
+            "title": "Websphere",
+            "area": "platforms",
+            "status": "hold",
+            "link": "http://mapbox.com"
+        },
+        {
+            "title": "JBoss",
+            "area": "platforms",
+            "status": "hold",
+            "link": "http://mapbox.com"
+        },
+        {
+            "title": "ES6",
+            "area": "frameworks",
+            "status": "adopt",
+            "link": "http://facebook.github.io/react"
+        },
+        {
+            "title": "HTML5",
+            "area": "frameworks",
+            "status": "adopt",
+            "link": "http://facebook.github.io/react"
+        },
+        {
+            "title": "Java8",
+            "area": "frameworks",
+            "status": "adopt",
+            "link": "http://facebook.github.io/react"
+        },
+        {
+            "title": "SASS",
+            "area": "frameworks",
+            "status": "trial",
+            "link": "http://facebook.github.io/react"
+        },
+        {
+            "title": "React",
+            "area": "frameworks",
+            "status": "trial",
+            "link": "http://facebook.github.io/react"
+        },
+        {
+            "title": "Phyton",
+            "area": "frameworks",
+            "status": "trial",
+            "link": "http://facebook.github.io/react"
+        },
+        {
+            "title": "Spring Boot",
+            "area": "frameworks",
+            "status": "assess",
+            "link": "http://facebook.github.io/react"
+        },
+        {
+            "title": "Go",
+            "area": "frameworks",
+            "status": "assess",
+            "link": "http://facebook.github.io/react"
+        },
+        {
+            "title": "Angular 2.0",
+            "area": "frameworks",
+            "status": "assess",
+            "link": "http://facebook.github.io/react"
+        },
+        {
+            "title": "Compass",
+            "area": "frameworks",
+            "status": "assess",
+            "link": "http://facebook.github.io/react"
+        },
+        {
+            "title": "Spring (Cloud)",
+            "area": "frameworks",
+            "status": "assess",
+            "link": "http://facebook.github.io/react"
+        },
+        {
+            "title": "Backbone.js",
+            "area": "frameworks",
+            "status": "hold",
+            "link": "http://facebook.github.io/react"
+        },
+        {
+            "title": "Jquery",
+            "area": "frameworks",
+            "status": "hold",
+            "link": "http://facebook.github.io/react"
+        },
+        {
+            "title": "CSS Frameworks",
+            "area": "frameworks",
+            "status": "hold",
+            "link": "http://facebook.github.io/react"
+        },
+        {
+            "title": "LESS",
+            "area": "frameworks",
+            "status": "hold",
+            "link": "http://www.basscss.com/"
+        },
+        {
+            "title": "RequireJS",
+            "area": "frameworks",
+            "status": "hold",
+            "link": "http://www.basscss.com/"
+        },
+        {
+            "title": "REST",
+            "area": "techniques",
+            "status": "adopt",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "Automatiserte tester",
+            "area": "techniques",
+            "status": "adopt",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "Promises (Javascript) async prog",
+            "area": "techniques",
+            "status": "adopt",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "Universell Utforming (UU)",
+            "area": "techniques",
+            "status": "adopt",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "Continuous delivery",
+            "area": "techniques",
+            "status": "adopt",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "Domain Driven Design",
+            "area": "techniques",
+            "status": "adopt",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "Client side capturing Javascript errors",
+            "area": "techniques",
+            "status": "adopt",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "CQRS",
+            "area": "techniques",
+            "status": "adopt",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "Mobile First",
+            "area": "techniques",
+            "status": "adopt",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "Utviklingsmiljø i skyen",
+            "area": "techniques",
+            "status": "adopt",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "Kanban",
+            "area": "techniques",
+            "status": "trial",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "Responsive Design",
+            "area": "techniques",
+            "status": "trial",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "Lean",
+            "area": "techniques",
+            "status": "trial",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "DevOps",
+            "area": "techniques",
+            "status": "trial",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "Micro Services",
+            "area": "techniques",
+            "status": "trial",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "BEM",
+            "area": "techniques",
+            "status": "assess",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "SDLC",
+            "area": "techniques",
+            "status": "assess",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "Reactive programming",
+            "area": "techniques",
+            "status": "assess",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "Event Driven Architecture",
+            "area": "techniques",
+            "status": "assess",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "Gamification",
+            "area": "techniques",
+            "status": "assess",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "Databasemigrering til NOSQL",
+            "area": "techniques",
+            "status": "assess",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "Behavior Driven Development",
+            "area": "techniques",
+            "status": "assess",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "Data Lake",
+            "area": "techniques",
+            "status": "assess",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "Flux",
+            "area": "techniques",
+            "status": "assess",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "12 factor app",
+            "area": "techniques",
+            "status": "assess",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "QA i produksjon?",
+            "area": "techniques",
+            "status": "assess",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        },
+        {
+            "title": "Scrum",
+            "area": "techniques",
+            "status": "hold",
+            "link": "http://viget.com/extend/getting-started-with-inline-svg"
+        }
+    ]
+}

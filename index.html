@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<title>Technology Radar 2016</title>
+	<meta name="description" content="A little technology radar map inspired from Thoughtworks publication Technology Radar">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" href="dist/radar.min.css">
+</head>
+<body>
+
+	<div class="layoutswitch">
+		<label for="layout">List</label>
+		<input type="checkbox" name="layout" class="js-switch" checked />
+		<label for="layout" class="">Radar</label>
+	</div>
+
+	<div class="radar">
+		<div class="xline"></div>
+		<div class="yline"></div>
+		<div id="blips"></div>
+
+		<div class="techniques"><h3>Techniques</h3></div>
+		<div class="tools"><h3>Tools</h3></div>
+		<div class="frameworks"><h3>Frameworks</h3></div>
+		<div class="platforms"><h3>Platforms</h3></div>
+
+		<div class="adopt"></div>
+		<div class="trial"></div>
+		<div class="assess"></div>
+		<div class="hold"></div>
+	</div>
+
+	<footer role="contentinfo" class="footer">
+
+	</footer>
+
+	<script id="usertmpl" type="text/template">
+
+	</script>
+
+	<script id="blipstmpl" type="text/template">
+		{{#blips}}
+			<a class="blip" rel="tooltip" href="{{link}}" target="_blank" data-color="{{area}}" data-status="{{status}}" title="{{title}}"></a>
+		{{/blips}}
+	</script>
+
+	<script src="dist/radar.min.js"></script>
+
+</body>
+</html>
